@@ -15,6 +15,7 @@ public class BasketServiceIml {
     }
 
     public void addItems(List<Integer> items) {
+        basket.addItems(items);
     }
 
     public List<Integer> getItems() {

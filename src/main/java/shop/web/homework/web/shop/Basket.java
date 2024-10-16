@@ -1,6 +1,5 @@
 package shop.web.homework.web.shop;
 
-import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 import org.springframework.web.context.annotation.SessionScope;
 
